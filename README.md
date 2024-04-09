@@ -5,15 +5,6 @@
   - Độ thông hiểu js, nodejs phải ở mức trên trung bình để có thể sử dụng.
   - Một tài khoản Facebook dùng để làm bot(Khuyên nên sử dụng acc đã bỏ hoặc không còn sử dụng để tránh mất acc hay acc bị khoá).
 
-## Deployment
-Click this button:
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/manhkhac/mirai-1.2.15
-)
-[![Run on Repl.it](https://repl.it/badge/github/manhkhac/mirai-1.2.15)](https://repl.it/github/manhkhac/mirai-1.2.15)
-
-# Contributing
-- Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-- Liên hệ tới tôi khi bạn cần đóng góp tại: [GitHub](https://github.com/manhkhac) - [Facebook](https://fb.me/manhict) hoặc tạo pull request!
 
 <h1>HƯỚNG DẪN CÁCH CÀI ĐẶT BOT MESSENGER TRÊN CÁC NỀN TẢNG</h1>
 
@@ -85,7 +76,6 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 Ấn **tick** vào ô  **Select "Alert Contacts To Notify** (nhận thông báo từ email)
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
 
-**Và cùng nhiều anh em tester, những người đã đóng góp đã đồng hành cùng project! Cảm ơn!**
 
 ## License
 
