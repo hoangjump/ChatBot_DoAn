@@ -1,0 +1,114 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "PM-BOT",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "USERID1",
+        "USERID2"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063"
+    },
+    "version": "1.2.14",
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 10000
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "tiktok": {
+        "API_KEY": "UztVq9d4"
+    },
+    "tikvideo2": {
+        "key": "UztVq9d4"
+    },
+    "twittermp3": {
+        "API_KEY": "UztVq9d4"
+    },
+    "twittervideo": {
+        "API_KEY": "UztVq9d4"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBmf8wvwM9vjJuyG3EYKv9eJtKqf3inOcE"
+    },
+    "videov2": {
+        "API_KEY": "UztVq9d4"
+    },
+    "weather": {
+        "OPEN_WEATHER": "b9d77a161b0f74d39d7ce1fa6c80b2c4"
+    },
+    "work": {
+        "cooldownTime": 5
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 6120
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "tikvideo": {
+        "key": "UztVq9d4"
+    },
+    "tiksearch": {
+        "key": "UztVq9d4"
+    },
+    "youtube": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "sim": {
+        "APIKEY": "API-1234-abcd-1234-abcd"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "minecraft": {
+        "APIKEY": ""
+    }
+}
